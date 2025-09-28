@@ -1,4 +1,4 @@
-<h1>Hazaa - Raspberry PI BOX 
+<h1>MH - Raspberry PI BOX 
 
 <h2>Description</h2>
 This was my IoT class project, the idea was to build a mini cyberdeck without a screen or a keyboard so you can take it anywhere, it uses Arduino & Raspberry PI 4 4GB. I'm trying to setup it up to monitor network traffic and detect any malicious packets that comes in and some ethical hacking with ARM based Kali, if ever. This idea is still a work in progress.  
